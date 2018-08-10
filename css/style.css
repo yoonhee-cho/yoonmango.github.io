@@ -1,0 +1,19 @@
+#panel,#flip {
+	padding:5px;
+	text-align:center;
+	background-color:#cccccc;
+	border:1px solid #000000; 
+}
+
+
+#panel {
+	padding:50px;
+	/*display:none;*/
+}
+
+.greenbox{
+	background:green;
+	height:100px;
+	width:100px;
+	position:absolute;
+}
